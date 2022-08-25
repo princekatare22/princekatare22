@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me: <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCJFGNkbbNmgxrbZrqvqVjXxRjBsgZQNhrtGRFknBXMnMlRPQJxfWXKShzXqlwBdcXVNnq">princekatare22@gmail.com</a></h3>
 
-<p><a href="[https://www.linkedin.com/in/esha-mitra-7291b6210/](https://www.linkedin.com/in/prince-katare-27668219a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-katare-27668219a" height="30" width="40" /></a></p>
+<p><a href="https://www.linkedin.com/in/prince-katare-27668219a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-katare-27668219a" height="30" width="40" /></a></p>
   
   
   
