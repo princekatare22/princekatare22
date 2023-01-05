@@ -1,4 +1,4 @@
-<h1 align="center">Hi there everyone I am Prince !!! 👋</h1>
+<h1 align="center">Hi there everyone I am Prince !! 👋</h1>
 
 <p> A student , BTech CSE at JUET Guna, keen interest in learning new things and exploring new technologies. With my technical skills I am looking for opportunities which will help me grow and gain new experiences. </p>
 
